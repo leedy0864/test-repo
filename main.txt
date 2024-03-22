@@ -1,2 +1,10 @@
 touched by leedy0864
 hello world
+int i;
+for(i=0; i<5; i++)
+{
+  printf("헤헤");
+}
+
+
+
