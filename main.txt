@@ -3,7 +3,7 @@ hello world
 int i;
 for(i=0; i<5; i++)
 {
-  printf("히힣");
+  printf("하이하이");
 }
 
 
