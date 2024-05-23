@@ -6,7 +6,7 @@ for(i=0; i<5; i++)
   printf("하이");
 }
 
-HI
+HIhi
 
 
 
