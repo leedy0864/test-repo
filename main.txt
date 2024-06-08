@@ -4,7 +4,8 @@ hello world
 int i;
 for(i=0; i<5; i++)
 {
-  printf("하이");
+  printf("하이");  
+  printf("내가 너 사랑하면 안되냐?");
 }
 
 HIhihihi
